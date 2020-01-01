@@ -4,7 +4,7 @@ Progress bar is a small module written in [vlang](https://github.com/vlang/v) to
 
 Currently only progress bar has been implemented and nothing is being exported.
 
-![](screenshots/screenshot.png)
+![](https://github.com/Waqar144/progressbar/blob/11f4cd082d4cb7bff28e235c43abe4364e834772/screenshots/screenshot.png)
 
 ## Usage
 
